@@ -49,8 +49,9 @@ p {
 
 .hero {
     height: 800px;
+    width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("https://eruptr.com/wp-content/uploads/2020/04/Team-collaboration-office-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
