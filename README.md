@@ -4,3 +4,4 @@
 2. Tags on the images were changed, so they could show up properly. I renamed all of the files and put the new names in.
 3. Grouped a bunch of image classes who had the same thing being done to them under one line and made the command perform the same thing for them.
 4. Again, I grouped 3 image classes together into one line who had the same thing being done to them.
+5. Elements and classes kept on being grouped together who had the same attributes given to them
