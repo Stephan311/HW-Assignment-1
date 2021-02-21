@@ -13,6 +13,10 @@ attrbutes being applied to them. Instead of having 20 lines of code in some sect
 3. The next big challange I faced was on the HTML side. One of the buttons/links inside the header of this website was not working. After looking
 closley, I saw that this button linked to an ID which did not exist for the element in the page it was linking to. I created an ID for said element, using approiate names, and it worked.
 4. I also arranged the order of the various CSS elements to apprporiately follow the HTML structure and order, so everything made sense.
-5. Lastly, I added comments to every section in the CSS file to let the viewer know exactly what sections of then website were being styled so they could better understand it.
+5. Lastly, I added comments to every section in the CSS file to let the viewer know exactly what sections of the website were being styled so they could better understand it.
 
-In conclusion, this site's code has been simplefied, and it is now much more accessible. I faced 3 main challenges in this project, plus a few other minor ones that are included in my commits. A large part of this project was trial and error. Trying to simplify code, and seeing what effect (if any) it had on the appearence or functionality of the website.
+In conclusion, this site's code has been simplefied, and it is now much more accessible. I faced 5 main challenges in this project, plus a few other minor ones that are included in my commits. A large part of this project was trial and error. Trying to simplify code, and seeing what effect (if any) it had on the appearence or functionality of the website.
+
+Link to the application: file:///C:/Users/Stephan/Pictures/Course/HW-Assignment-1/01-HTML-Git-CSS_02-Homework_Develop_index.html 
+
+Link to Github Repository: https://github.com/Stephan311/Stephan-du-Plooy---HW-Assignment-1.git 
