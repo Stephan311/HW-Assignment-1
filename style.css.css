@@ -63,23 +63,18 @@ p {
     font-size: 16px;
 }
 
-/*Sets the spacing and position for the SEO information section*/
+/*Sets the spacing and position the Search-engine-optimization section picture*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Sets the spacing and position the Online Reputation Management section picture*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block; 
-    margin-left: 20px;
-}
-
+/*Sets styling for the services section*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -89,15 +84,24 @@ p {
     color: #ffffff;
 }
 
+/*Sets styling for the services section images*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
+/*Sets styling for headers of the services section*/
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*Sets position for benefits section on the right side*/
+.content {
+    width: 75%;
+    display: inline-block; 
+    margin-left: 20px;
+}
+/*Sets the spacing and margins for the benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,30 +113,31 @@ p {
     background-color: #2589bd;
 }
 
+/*Sets styling and margins for benefits text*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Sets styling and margins for benefits headers*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Sets positining, margins, and size for benefits images*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/*Sets position and styling for the footer*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*Sets position for the text within the footer*/
 .footer h2 {
     font-size: 20px;
 }
