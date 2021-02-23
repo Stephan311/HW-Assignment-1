@@ -20,3 +20,4 @@ In conclusion, this site's code has been simplefied, and it is now much more acc
 Link to the application: file:///C:/Users/Stephan/Pictures/Course/HW-Assignment-1/01-HTML-Git-CSS_02-Homework_Develop_index.html 
 
 Link to Github Repository: https://github.com/Stephan311/Stephan-du-Plooy---HW-Assignment-1.git 
+
