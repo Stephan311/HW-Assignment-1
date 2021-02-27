@@ -17,7 +17,7 @@ closley, I saw that this button linked to an ID which did not exist for the elem
 
 In conclusion, this site's code has been simplefied, and it is now much more accessible. I faced 5 main challenges in this project, plus a few other minor ones that are included in my commits. A large part of this project was trial and error. Trying to simplify code, and seeing what effect (if any) it had on the appearence or functionality of the website.
 
-Link to the application: file:///C:/Users/Stephan/Pictures/Course/HW-Assignment-1/01-HTML-Git-CSS_02-Homework_Develop_index.html 
+Link to the application: https://stephan311.github.io/Horiseon-Refracted-Code-Stephan-du-Plooy/ 
 
 Link to Github Repository: https://github.com/Stephan311/Stephan-du-Plooy---HW-Assignment-1.git 
 
